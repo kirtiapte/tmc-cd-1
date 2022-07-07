@@ -6,6 +6,6 @@ metadata:
     app: nginx
 spec:
   containers:
-  - name: nginx
+  - name: nginx1
     image: nginx
   restartPolicy: Never
