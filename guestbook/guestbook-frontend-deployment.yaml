@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: guestbook-frontend-deployment
+  namespace: guestbook
 spec:
   selector:
     matchLabels:
