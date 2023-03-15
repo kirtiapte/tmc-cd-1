@@ -5,7 +5,7 @@ metadata:
 spec:
   accessModes:
     - ReadWriteOnce
-  storageClassName: tkgs-storage-class-name
+  storageClassName: vc01cl01-t0compute
   resources:
     requests:
       storage: 2Gi
