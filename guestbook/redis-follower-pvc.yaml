@@ -6,7 +6,7 @@ metadata:
 spec:
   accessModes:
     - ReadWriteOnce
-  storageClassName: vc01cl01-t0compute
+  storageClassName: tanzugoldsp
   resources:
     requests:
       storage: 2Gi
